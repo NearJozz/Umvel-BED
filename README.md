@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Project Build with TypeORM by NearJozz 'Black Code Wizards'
 
 Steps to run this project:
 1. Run `npm i` command
