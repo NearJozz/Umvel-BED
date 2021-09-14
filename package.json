@@ -1,0 +1,22 @@
+{
+   "name": "lab03",
+   "version": "0.0.1",
+   "description": "Awesome project developed with TypeORM.",
+   "devDependencies": {
+      "@types/node": "^8.0.29",
+      "jest": "^27.2.0",
+      "ts-node": "3.3.0",
+      "typescript": "3.3.3333"
+   },
+   "dependencies": {
+      "typeorm": "0.2.37",
+      "reflect-metadata": "^0.1.10",
+      "mysql": "^2.14.1",
+      "express": "^4.15.4",
+      "body-parser": "^1.18.1"
+   },
+   "scripts": {
+      "start": "ts-node src/index.ts",
+      "pop": "ts-node src/populate.ts"
+   }
+}
